@@ -1,1 +1,0 @@
-print ("textile classification")
